@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋</h1>
 
 <p align="center">
-  Electronic Engineer - Programme Manager - Lithography Equipment - accelerator science - HW Biased - Exploring DevOps and beyond through self-learning homelab & AI
+  Electronic Engineer - Programme Manager - Lithography Equipment - Proton accelerator science - HW Biased - Exploring DevOps and beyond through self-learning homelab & AI
 </p>
 
 <p align="center">
