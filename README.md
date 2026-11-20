@@ -40,9 +40,9 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pakube999&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pakube999&theme=github_dark" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pakube999&theme=dracula" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pakube999&theme=dracula&utcOffset=0" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pakube999&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pakube999&theme=github_dark" />
 </p>
